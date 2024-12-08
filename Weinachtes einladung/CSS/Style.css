@@ -1,0 +1,29 @@
+body{
+    
+        h1{
+            text-align: center;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: 70px;
+            text-shadow: 0 0 20px white;
+        }
+
+        background-image: url(../Bilder/christmas-3835447_1280.jpg);
+
+        p{
+            text-align: center;
+            font-size: 30px;
+            text-shadow: 0 0  5px white;
+            
+        }
+
+        
+
+
+
+
+}
+
+#video1{
+    size: 30px;
+    
+}
